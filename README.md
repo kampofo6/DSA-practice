@@ -1,4 +1,4 @@
-# Data Structures & Algorithms Practice
+# Data Structures & Algorithms Practice ⚙️
 
 Documenting my journey learning DSA concepts and solving problems.
 
