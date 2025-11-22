@@ -1,6 +1,6 @@
 # Data Structures & Algorithms Practice
 
-This repository documents my journey learning data structures and algorithms through hands-on implementation and problem-solving. I practice DSA in my free time to strengthen both my problem-solving skills and deepen my understanding of how fundamental data structures work under the hood. I primarily work with Java but occasionally explore implementations in other languages like Python and JavaScript.
+This repository documents my journey learning data structures and algorithms through hands-on implementation and problem-solving. I practice DSA in my free time to strengthen both my problem-solving skills and deepen my understanding of how fundamental data structures work under the hood.
 
 ## Repository Structure
 
