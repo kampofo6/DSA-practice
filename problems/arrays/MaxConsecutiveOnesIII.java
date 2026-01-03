@@ -1,5 +1,6 @@
 
-/*
+/* 1004. Max Consecutive Ones III
+
  * For this problem i implemented the sliding window approach. 
  * 
  * Intuition: intitialize Max window variable, left/right pointer & zero counter.

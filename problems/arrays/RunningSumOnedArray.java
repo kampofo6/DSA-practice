@@ -1,4 +1,5 @@
-// Intuition: in place, using a for loop starting at index 1, 
+// 1480. Running Sum of 1d Array
+//Intuition: in place, using a for loop starting at index 1, 
 // summate subsequent array values assigning them to nums[i]
 
 public class RunningSumOnedArray {

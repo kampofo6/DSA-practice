@@ -1,5 +1,10 @@
-/* initialize sum & lowestNum, summate nums[i] (prefix sum), 
-use Math.min to compare sum & lowestNum, if lowestNum > 0, return 1, else return 1 - lowestNum.*/
+/* 
+1413. Minimum Value to Get Positive Step by Step Sum
+
+initialize sum & lowestNum, summate nums[i] (prefix sum), 
+use Math.min to compare sum & lowestNum, if lowestNum > 0, return 1, else return 1 - lowestNum.
+
+*/
 
 public class MinimumValueToGetPositiveStepByStepSum {
     
